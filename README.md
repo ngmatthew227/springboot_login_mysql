@@ -33,7 +33,7 @@ Before running the project, make sure you have the following installed:
 
 ## Usage
 
-1. Open a web browser and navigate to `http://localhost:8080` to access the login page.
+1. Open a web browser and navigate to `http://localhost:8787` to access the login page.
 
 2. Click on the "Register" link to create a new account. Fill in the required information and submit the form.
 
