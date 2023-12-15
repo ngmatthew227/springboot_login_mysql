@@ -14,7 +14,7 @@ Before running the project, make sure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/ngmatthew227/springboot_login_mysql.git
    ```
 
 2. Create a MySQL database for the project.
