@@ -1,5 +1,3 @@
-Sure! Here's an example of a README file for your Spring Boot project that demonstrates a login function using data from MySQL:
-
 # Spring Boot Login Project
 
 This is a simple Spring Boot project that demonstrates a login function using data from MySQL. The project allows users to register, login, and access protected resources.
